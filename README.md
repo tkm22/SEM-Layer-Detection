@@ -15,3 +15,5 @@
 [SEM]: https://github.com/tkm22/SEM-Layer-Detection/blob/master/data/test/CS-MA-FA-bbox.jpg
 
 
+To use the Layer Detection, see Example.ipynb, which can be opened using Colab.
+[https://github.com/tkm22/SEM-Layer-Detection/blob/master/SEM-layer-detection.ipynb]
