@@ -16,4 +16,6 @@
 
 
 To use the Layer Detection, see Example.ipynb, which can be opened using Colab.
-[https://github.com/tkm22/SEM-Layer-Detection/blob/master/SEM-layer-detection.ipynb]
+
+![example]
+[example]: https://github.com/tkm22/SEM-Layer-Detection/blob/master/SEM-layer-detection.ipynb
